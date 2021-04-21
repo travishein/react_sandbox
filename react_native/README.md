@@ -4,7 +4,7 @@ Notes and workshop for learning ReactJS application development
 The goal here is to investigate technologies to build useful applications for customers to interact with our product. 
 
 
-# Getting Started
+## Getting Started
 
 We need to do some reading and then some installing software to follow along the examples
 
